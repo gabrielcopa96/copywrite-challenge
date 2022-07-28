@@ -49,8 +49,8 @@ _Para ejecutar las pruebas solo para la api, parados sobre la carpeta /api, con 
 
 ## Despliegue 📦
 
-[]() - Deploy api - BackEnd
-[]() - Deploy FrontEnd
+[deploy back](https://copywrite-backendv2.herokuapp.com/) - Deploy api - BackEnd
+[deploy front](https://frontend-codewrite.herokuapp.com/) - Deploy FrontEnd
 
 ## Autores ✒️
 
